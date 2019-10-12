@@ -1,10 +1,10 @@
 # 37-todolist-redux-store
 
-# LAB - 
+# LAB - 37
 
-## Project Name
+## Dynamic Forms
 
-### Author: Student/Group Name
+### Author: Ai
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
@@ -45,4 +45,17 @@ Usage Notes or examples
 * What assertions need to be / should be made?
 
 #### UML
+State Management
+
+Convert the state management to a Redux Store.
+Create a Redux Store, a To Do store/reducer/action set
+Wire up the components to subscribe to the store for state and actions
+Form Handling
+
+Convert ths current form rendering/submission process into one of either
+
+React JSON Schema Form
+Redux Form
+A form library of your own choosing
+
 Link to an image of the UML for your application and response to events
